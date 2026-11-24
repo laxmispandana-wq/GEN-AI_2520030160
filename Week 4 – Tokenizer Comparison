@@ -1,0 +1,68 @@
+Overview
+
+This project compares tokenization techniques used in Large Language Models (LLMs). It demonstrates how text is converted into tokens and how different tokenization approaches affect token counts.
+
+Objectives
+
+Understand the concept of tokenization.
+
+Explore how text is divided into tokens.
+
+Compare tokenization results.
+
+Understand the relationship between text, tokens, and LLM processing.
+
+Technologies Used
+
+Python
+
+Tokenization libraries
+
+VS Code
+
+Project Structure
+
+Week-4/
+├── tokenizer_comparison.py
+├── requirements.txt
+└── README.md
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/laxmispandana-wq/GEN-AI_2520030160.git
+
+Navigate to the Week-4 folder:
+
+cd GEN-AI_2520030160/LAB/Week-4
+
+Install the required dependencies:
+
+pip install -r requirements.txt
+
+Execution
+
+Run the Python program:
+
+python tokenizer_comparison.py
+
+Working
+
+The program demonstrates tokenization and compares how text is processed into tokens. It helps understand how tokenization plays an important role in preparing input for Large Language Models.
+
+Learning Outcomes
+
+Understanding tokenization in Generative AI.
+
+Learning how text is represented as tokens.
+
+Comparing tokenization approaches.
+
+Understanding the importance of token counts in LLM applications.
+
+Author
+
+Laxmi Spandana
+
+Gen AI Lab – Week 4
