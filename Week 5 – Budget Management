@@ -1,0 +1,76 @@
+# Week 5 – Budget Management
+
+## Overview
+This project demonstrates a budget management application developed using Python. It focuses on managing budget-related operations and testing the functionality using automated tests.
+
+## Objectives
+- Understand budget management logic using Python.
+- Implement budget-related functionality.
+- Organize Python code into modules.
+- Validate functionality using unit testing.
+
+## Technologies Used
+- Python
+- Pytest
+- VS Code
+
+## Project Structure
+
+```text
+Week-5/
+├── budget.py
+├── test_budget.py
+├── requirements.txt
+└── README.md
+```
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/laxmispandana-wq/GEN-AI_2520030160.git
+   ```
+
+2. Navigate to the Week-5 folder:
+
+   ```bash
+   cd GEN-AI_2520030160/LAB/Week-5
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Execution
+
+Run the project:
+
+```bash
+python budget.py
+```
+
+## Testing
+
+Run the test file:
+
+```bash
+python -m pytest test_budget.py
+```
+
+## Working
+
+The project implements budget-related operations through Python functions and validates their behavior using automated testing. The test file checks the functionality of the budget logic to help identify errors and ensure expected behavior.
+
+## Learning Outcomes
+- Writing modular Python programs.
+- Understanding budget-related logic.
+- Writing and executing unit tests.
+- Validating code using automated testing.
+
+## Author
+**Laxmi Spandana**
+
+Gen AI Lab – Week 5
